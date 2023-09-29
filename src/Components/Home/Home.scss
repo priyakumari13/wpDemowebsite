@@ -1,0 +1,107 @@
+.home{
+    height: 100vh;
+    background-color: aliceblue;
+    background: linear-gradient(rgba(247, 242, 242, 0.522), rgba(33,33,33,0.522)), url('../../Assets/hom1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-attachment: fixed;
+    margin: auto;
+    position: relative;
+   
+
+
+    .setContainer{
+        .homeText{
+            text-align: center;
+            .title{
+                color: white;
+                font-size: 2rem;
+                font-weight: 700;
+                line-height: 2.5rem;
+            }
+            .subTitle{
+                color: white;
+                opacity: .9;
+                font-size: 13px;
+                font-weight: 300;
+                padding: 3rem 0;
+                max-width: 70%;
+                text-align: center;
+                margin: auto;
+
+            }
+            .btn{
+                padding: .6rem 1.5rem;
+                &:hover{
+                    background: orangered;
+                }
+
+
+            }
+        }
+        
+    }
+    
+
+}
+
+/*media query*/
+
+@media screen and (min-width:556px){
+
+    .secContainer{
+        .homeText{
+            .title{
+                font-size: 2.5rem;
+
+            }
+            .subTitle{
+                font-size: 18px;
+                
+            }
+        }
+    }
+   
+    
+}
+
+@media screen and (min-width:720px){
+    
+
+    .secContainer{
+        .homeText{
+            padding: 1rem 10rem;
+            .title{
+                font-size: 3.5rem;
+                margin: auto;
+                line-height: 4rem;
+            }
+            .subTitle{
+                width: 70%;
+            }
+
+        }
+    }
+   
+    
+}
+
+@media screen and (min-width:1024px){
+
+    .home{
+        .secContainer{
+            .homeText{
+                .subTitle{
+                    font-size: 20px;
+                }
+            }
+        }
+    }
+   
+    
+}
+

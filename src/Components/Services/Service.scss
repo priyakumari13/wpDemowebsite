@@ -1,0 +1,66 @@
+.service{
+    background: url('../../Assets/backgroundImage.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    
+    .secContainer{
+        
+        .secTitle{
+            
+            background-color: white;
+            line-height: 1.5rem;
+            padding: 2rem;
+            text-align: center;
+            font-size: 1.5rem;
+            
+        }
+        .mainContent{
+            background-color: white;
+            gap: 1rem;
+            .singleItem{
+                text-align: center;
+    
+                h3{
+                    font-weight: 700;
+                    color: black;
+                    padding: .5rem;
+
+                }
+                p{
+                    font-size: 13px;
+                    font-weight: 500;
+                    padding-bottom: .5rem;
+                    color: gray;
+                    
+
+                }
+
+            }
+
+        }
+    }
+}
+
+/* media  for video 2:6*/
+
+/* @media screen and (min-width:720px) {
+    .about{
+        .secContainer{
+
+        }
+    }
+    
+} */
+
+@media screen and (min-width: 1024px){
+    .about{
+        .secContainer{
+            .mainContent{
+                padding: 2.5rem 0;
+            }
+        }
+    }
+    
+}
