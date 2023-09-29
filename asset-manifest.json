@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/wpDemowebsite/static/css/main.d59142e2.css",
+    "main.js": "/wpDemowebsite/static/js/main.6e206abf.js",
+    "static/media/hom1.jpg": "/wpDemowebsite/static/media/hom1.4a2ceab6702bf8549a30.jpg",
+    "static/media/West Palm.png": "/wpDemowebsite/static/media/West Palm.12217cbe4cfde82f1779.png",
+    "static/media/backgroundImage.jpg": "/wpDemowebsite/static/media/backgroundImage.ab866d013fcd97663037.jpg",
+    "static/media/mngr.jpg": "/wpDemowebsite/static/media/mngr.7bbf86c9494908687ad6.jpg",
+    "static/media/image3.jpg": "/wpDemowebsite/static/media/image3.512b2b39faef3ecd1f95.jpg",
+    "static/media/image5.jpg": "/wpDemowebsite/static/media/image5.a5c91efb6f3cfe91dff7.jpg",
+    "static/media/image2.jpg": "/wpDemowebsite/static/media/image2.a742acdbffdd703414f9.jpg",
+    "static/media/kastconstruction.jpg": "/wpDemowebsite/static/media/kastconstruction.03972fe5b4a2f3995d27.jpg",
+    "static/media/images6.jpg": "/wpDemowebsite/static/media/images6.83342edaea205747a3c1.jpg",
+    "static/media/image4.jpg": "/wpDemowebsite/static/media/image4.51b6bc05772adb5c9165.jpg",
+    "index.html": "/wpDemowebsite/index.html",
+    "main.d59142e2.css.map": "/wpDemowebsite/static/css/main.d59142e2.css.map",
+    "main.6e206abf.js.map": "/wpDemowebsite/static/js/main.6e206abf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d59142e2.css",
+    "static/js/main.6e206abf.js"
+  ]
+}
